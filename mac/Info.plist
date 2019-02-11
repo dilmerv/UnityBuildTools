@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>YOUR_GAME_NAME</string>
+	<key>CFBundleGetInfoString</key>
+	<string>YOUR_GAME_NAME v1.0.0 (c) YOUR_COMPANY_NAME. All rights reserved.</string>
+	<key>CFBundleIconFile</key>
+	<string>PlayerIcon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.your_domain.app_id</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>YOUR_GAME_NAME</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.games</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>PlayerApplication</string>
+	<key>UnityBuildNumber</key>
+	<string>03f34082a9c0</string>
+</dict>
+</plist>
